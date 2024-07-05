@@ -15,26 +15,37 @@ Employee attrition is a critical concern for organizations, impacting productivi
 * In-Depth Attrition Analysis: Detailed analysis of attrition by department, distance from work, business travel, and marital status.
 * Enhanced Visuals: Improved aesthetics with transparent plots, statistical summaries, and comparison features.
 
-![image](https://github.com/borisyalcin/hr_attrition_analysis/assets/155834534/afeb0cad-67ea-4369-adf6-d834ae944ad1)
+![image](https://github.com/borisyalcin/hr_attrition_analysis/assets/155834534/ad007705-cc61-450c-8e92-7ce17ee059f4)
 
 ## Analysis and Summaries
 ### Gender Analysis
 * Age Distribution: The average age for females (37.33) and males (36.65) shows similar distributions.
 * Job Satisfaction: Females who left the organization had lower job satisfaction compared to males.
 * Income: Average salaries are comparable between genders, with males at $6380.51 and females at $6686.57.
+
+![image](https://github.com/borisyalcin/hr_attrition_analysis/assets/155834534/3f2b5ca1-8248-4c25-9956-1c8c187c7ffe)
+
 ### Generation and Education
 * Employees who Quit: Boomers have a higher number of previous companies worked, possibly due to nearing retirement.
 * Millennials: Show higher turnover rates, possibly due to career mobility and job market dynamics.
 * Attrition by Education: Bachelor's degree holders show the highest attrition rates, aligning with higher turnover among Millennials.
+
+![image](https://github.com/borisyalcin/hr_attrition_analysis/assets/155834534/aa37859b-56ef-4fcc-a5b2-89dbf8935853)
+
 ### The Impact of Income towards Attrition
 * Income by Departments: Significant income disparities within departments impact attrition rates.
 * Income and Job Satisfaction: Lower job satisfaction correlates with higher attrition rates, especially noticeable at lower income levels.
 * Sample Population Insights: Majority experienced salary increases <15% and monthly incomes <$7,000.
+
+![image](https://github.com/borisyalcin/hr_attrition_analysis/assets/155834534/e89a0422-1739-4b30-8ba0-a410501747cc)
+
 ### Working Environment
 * Employees by Job Role: Sales and Research Scientist roles have the highest employee counts.
 * Salary by Job Role: Managers and Research Directors earn the highest average salaries.
 * Attrition by Job Role: Sales Representatives, Healthcare Representatives, and Managers experience the highest attrition rates.
 * Managerial Satisfaction: Newer managers correlate with lower employee satisfaction scores.
+
+![image](https://github.com/borisyalcin/hr_attrition_analysis/assets/155834534/bd206ad6-0f22-477a-96b2-a6c95fd8c0ba)
 
 ## How to Use
 ### Installation:
