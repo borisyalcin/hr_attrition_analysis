@@ -1,4 +1,5 @@
 # Employee Attrition Analysis Dashboard
+#### Please refer here for the R script for running the app (You need an editor like RStudio or VSCode).
 Welcome to the Employee Attrition Analysis Dashboard! This interactive Shiny app provides comprehensive insights into employee attrition within your organization. It enables users to explore various factors influencing attrition rates and understand patterns across different demographics and job roles.
 
 ## Overview
