@@ -1,6 +1,6 @@
 # Employee Attrition Analysis Dashboard
-##### Please refer here for the R script for running the app (You need an editor like RStudio or VSCode).
-<a href="https://github.com/borisyalcin/hr_attrition_analysis/blob/main/hr_attrition_shinyApp.R"> HR Attrition App </a>
+##### Please click below to run the app.
+<a href="https://www.shinyapps.io/admin/#/application/12283896"> HR Attrition App </a>
 
 Welcome to the Employee Attrition Analysis Dashboard! This interactive Shiny app provides comprehensive insights into employee attrition within your organization. It enables users to explore various factors influencing attrition rates and understand patterns across different demographics and job roles.
 
